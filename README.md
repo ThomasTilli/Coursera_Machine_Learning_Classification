@@ -1,7 +1,6 @@
 # Coursera Machine Learning Classification
 
-These are my lab solutions for the oursera Machine Learning Classification course. Anaconda stack and Dato Graphlab Create 
-are required to run this code.
+These are my lab solutions for the oursera Machine Learning Classification course. 
 
 - Module 2: application of a logistic classifier for sentiment analysis
 - Module 3: implementation and  application of a logistic classifier using gradient descent  descent algorithm
@@ -10,3 +9,6 @@ are required to run this code.
 - Module 8: implementation and  application of an adaboost classifier
 - Module 9: exploring precision and recall using a logistic classifier
 - Module 10: implementation of a logistic classifier with stochastic gradient descent for  big data applications
+
+## Software requirements
+Anaconda Python 2.7 and Dato Graphlab Create
